@@ -1,0 +1,10 @@
+{
+  "order": [
+    "fika-server",
+    "ServerValueModifier",
+    "tyfon-uifixes",
+    "Skwizzy-NoDiscardLimit",
+    "BarlogM-Andern",
+    "zSolarint-SAIN-ServerMod"
+  ]
+}
