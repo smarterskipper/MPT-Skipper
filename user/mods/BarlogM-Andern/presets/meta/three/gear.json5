@@ -1,0 +1,238 @@
+{
+    "headsets": [
+        {
+            "weight": 2,
+            "id": "5e4d34ca86f774264f758330",
+            "name": "Walkers Razor Digital headset"
+        },
+        {
+            "weight": 2,
+            "id": "5aa2ba71e5b5b000137b758f",
+            "name": "MSA Sordin Supreme PRO-X/L active headset"
+        },
+        {
+            "weight": 1,
+            "id": "6033fa48ffd42c541047f728",
+            "name": "OPSMEN Earmor M32 headset"
+        },
+        {
+            "weight": 1,
+            "id": "5645bcc04bdc2d363b8b4572",
+            "name": "Peltor ComTac 2 headset"
+        }
+    ],
+    "helmets": [
+        {
+            "weight": 2,
+            "id": "5d5e7d28a4b936645d161203",
+            "name": "MSA ACH TC-2001 MICH Series helmet"
+        },
+        {
+            "weight": 2,
+            "id": "5d5e9c74a4b9364855191c40",
+            "name": "MSA ACH TC-2002 MICH Series helmet"
+        },
+        {
+            "weight": 2,
+            "id": "5ea17ca01412a1425304d1c0",
+            "name": "Diamond Age Bastion helmet"
+        },
+        {
+            "weight": 2,
+            "id": "5f60b34a41e30a4ab12a6947",
+            "name": "Galvion Caiman Hybrid helmet"
+        },
+        {
+            "weight": 1,
+            "id": "5b40e3f35acfc40016388218",
+            "name": "HighCom Striker ACHHC IIIA helmet (Black)"
+        },
+        {
+            "weight": 1,
+            "id": "5b40e4035acfc47a87740943",
+            "name": "HighCom Striker ACHHC IIIA helmet (Olive Drab)"
+        },
+        {
+            "weight": 1,
+            "id": "5e4bfc1586f774264f7582d3",
+            "name": "MSA Gallet TC 800 High Cut combat helmet"
+        }
+    ],
+    "armoredRigs": [
+        {
+            "weight": 2,
+            "id": "628dc750b910320f4c27a732",
+            "name": "ECLiPSE RBAV-AF plate carrier (Ranger Green)"
+        },
+        {
+            "weight": 1,
+            "id": "5c0e446786f7742013381639",
+            "name": "6B5-16 Zh-86 Uley armored rig (Flora)"
+        }
+    ],
+    "armor": [
+        {
+            "weight": 3,
+            "id": "609e8540d5c319764c2bc2e9",
+            "name": "NFM THOR Concealable Reinforced Vest body armor"
+        },
+        {
+            "weight": 2,
+            "id": "64abd93857958b4249003418",
+            "name": "Interceptor OTV body armor (UCP)"
+        },
+        {
+            "weight": 2,
+            "id": "5c0e53c886f7747fa54205c7",
+            "name": "6B13 assault armor (Digital Flora)"
+        },
+        {
+            "weight": 1,
+            "id": "5ab8e79e86f7742d8b372e78",
+            "name": "BNTI Gzhel-K body armor"
+        },
+        {
+            "weight": 1,
+            "id": "5c0e541586f7747fa54205c9",
+            "name": "6B13 M modified assault armor (Tan)"
+        }
+    ],
+    "rigs": [
+        {
+            "weight": 2,
+            "id": "5648a69d4bdc2ded0b8b457b",
+            "name": "BlackRock chest rig"
+        },
+        {
+            "weight": 2,
+            "id": "5ab8dab586f77441cd04f2a2",
+            "name": "WARTECH MK3 TV-104 chest rig"
+        },
+        {
+            "weight": 2,
+            "id": "592c2d1a86f7746dbe2af32a",
+            "name": "ANA Tactical Alpha chest rig"
+        },
+        {
+            "weight": 2,
+            "id": "603648ff5a45383c122086ac",
+            "name": "Azimut SS Zhuk chest harness (Black)"
+        },
+        {
+            "weight": 2,
+            "id": "6040dd4ddcf9592f401632d2",
+            "name": "Azimut SS Zhuk chest harness (Surpat)"
+        },
+        {
+            "weight": 2,
+            "id": "60a621c49c197e4e8c4455e6",
+            "name": "Stich Profi Chest Rig MK2 (Assault, A-TACS FG)"
+        },
+        {
+            "weight": 2,
+            "id": "60a6220e953894617404b00a",
+            "name": "Stich Profi Chest Rig MK2 (Recon, A-TACS FG)"
+        },
+        {
+            "weight": 2,
+            "id": "5fd4c60f875c30179f5d04c2",
+            "name": "Gear Craft GC-BSS-MK1 chest rig"
+        },
+        {
+            "weight": 1,
+            "id": "5df8a42886f77412640e2e75",
+            "name": "Velocity Systems MPPV Multi-Purpose Patrol Vest"
+        },
+        {
+            "weight": 1,
+            "id": "5c0e6a1586f77404597b4965",
+            "name": "Belt-A + Belt-B gear rig"
+        }
+    ],
+    "backpacks": [
+        {
+            "weight": 2,
+            "id": "5b44c6ae86f7742d1627baea",
+            "name": "ANA Tactical Beta 2 Battle backpack"
+        },
+        {
+            "weight": 2,
+            "id": "619cf0335771dd3c390269ae",
+            "name": "Gruppa 99 T20 backpack (Multicam)"
+        },
+        {
+            "weight": 2,
+            "id": "618bb76513f5097c8d5aa2d5",
+            "name": "Gruppa 99 T20 backpack"
+        },
+        {
+            "weight": 2,
+            "id": "6034d103ca006d2dca39b3f0",
+            "name": "Hazard 4 Takedown sling backpack (Black)"
+        },
+        {
+            "weight": 2,
+            "id": "5f5e467b0bc58666c37e7821",
+            "name": "Eberlestock F5 Switchblade backpack (Dry Earth)"
+        },
+        {
+            "weight": 1,
+            "id": "62a1b7fbc30cfa1d366af586",
+            "name": "Gruppa 99 T30 backpack (Multicam)"
+        },
+        {
+            "weight": 1,
+            "id": "618cfae774bb2d036a049e7c",
+            "name": "LBT-1476A 3Day Pack (Woodland)"
+        }
+    ],
+    "face": [
+        {
+            "weight": 1,
+            "id": "5b432f3d5acfc4704b4a1dfb",
+            "name": "Momex balaclava"
+        },
+        {
+            "weight": 1,
+            "id": "5ab8f85d86f7745cd93a1cf5",
+            "name": "Shemagh (Green)"
+        },
+        {
+            "weight": 1,
+            "id": "6571bde39837cc51b800c212",
+            "name": "Ghost half-mask"
+        }
+    ],
+    "eyewear": [
+        {
+            "weight": 2,
+            "id": "603409c80ca681766b6a0fb2",
+            "name": "NPP KlASS Condor glasses"
+        },
+        {
+            "weight": 1,
+            "id": "62a61c988ec41a51b34758d5",
+            "name": "Oakley SI Batwolf glasses"
+        }
+    ],
+    "sheath": [
+        {
+            "weight": 1,
+            "id": "5c012ffc0db834001d23f03f",
+            "name": "Camper axe"
+        },
+        {
+            "weight": 1,
+            "id": "57cd379a24597778e7682ecf",
+            "name": "Kiba Arms Tactical Tomahawk"
+        },
+        {
+            "weight": 1,
+            "id": "5c0126f40db834002a125382",
+            "name": "Red Rebel ice pick"
+        }
+    ],
+    "chadMasks": [],
+    "chadHelmets": [],
+    "chadArmor": []
+}
