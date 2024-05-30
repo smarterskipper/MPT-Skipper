@@ -78,16 +78,16 @@
       }
    },
    "MaxBotCap": {
-      "factory": 28,
-      "customs": 36,
-      "woods": 36,
-      "shoreline": 36,
-      "lighthouse": 36,
-      "reserve": 34,
-      "interchange": 36,
-      "laboratory": 20,
-      "streets": 38,
-      "groundzero": 36
+      "factory": 40,
+      "customs": 40,
+      "woods": 40,
+      "shoreline": 40,
+      "lighthouse": 40,
+      "reserve": 40,
+      "interchange": 40,
+      "laboratory": 40,
+      "streets": 40,
+      "groundzero": 40
    },
    "NightMaxBotCap": {
       "factory_night": 18,
