@@ -1,0 +1,36 @@
+# sourced from https://github.com/IAMBUDE/mpt-client/blob/main/.gitignore, thank you!
+/*
+
+#Base files
+!.gitignore
+!README.md
+
+#Unneeded stuff
+**/.DS_Store
+**.log
+
+#Include BepInEx core
+!BepInEx
+BepInEx/*
+
+# BepInEx Plugins 
+!BepInEx/plugins
+
+# BepInEx config
+!BepInEx/config
+
+# BepInEx config ignore list
+BepInEx/config/BepInEx.cfg
+BepInEx/config/FOVFix.cfg
+BepInEx/config/Tyfon.UIFixes.cfg
+BepInEx/config/com.Amanda.Graphics.cfg
+BepInEx/config/com.bepis.bepinex.configurationmanager.cfg
+
+# mod ignore list
+
+#Include User/Mods/
+!User
+User/*
+!User/Mods
+user/mods/DrakiaXYZ-LiveFleaPrices/config/config.json
+user/mods/DrakiaXYZ-LiveFleaPrices/config/prices.json
